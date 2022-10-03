@@ -1,0 +1,38 @@
+*{padding:px;
+  margin:0px;
+  box-sizing:border-box;}
+  
+ 
+  .container {
+	           margin: auto;
+               width: 1400px;
+               padding: 20px;
+			   background-color:#E1F5FE;}
+		   
+			   
+.name {padding-left:350px;}
+  
+.detail{padding-left:350px;
+        padding-top:20px;}
+.mess {padding-left:350px;
+padding-top:20px;}			   		   
+	   		 
+.mess  {    width: 736px;
+           height: 128px;
+    }
+.button {padding-left:350px;}
+
+.button {margin-left:617px;
+         background-color:blue;
+         border: none;
+         color: white;
+         padding: 15px 32px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+        border-radius:47px;
+}
+
+
+.message {height:103px;
+width:53%  }
